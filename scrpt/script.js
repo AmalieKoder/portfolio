@@ -1,4 +1,4 @@
-// Henter themeToggle.js
+// Henter fra themeToggle.js
 
 import { themeToggled } from "./themeToggle.js";
 
