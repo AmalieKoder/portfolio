@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    background-image: url("/gif/forest.gif");
+ background-repeat: no-repeat;
+}
+
+.header {
+ display: flex;
+ flex-direction: column;
+ justify-content:center;
+ align-items: center;
+ gap: 10px;
+ height: 100vh;
+}
+
+.ul {
+    list-style: none;
+    padding-left: 0;
+    display: flex;
+    gap: 0.5em;
+    border: 2px solid #bc4b51;
+    background-color: #432818;
+}
+
+.hjem:hover {
+    cursor: pointer;
+    color: #f08080;
+}
+
+.omMeg:hover {
+    cursor: pointer;
+    color: #f08080;
+}
+
+.projeckter:hover {
+    cursor: pointer;
+    color: #f08080;
+}
+
+.projeckter {
+    color: black;
+    font-size: 25px;
+}
+
+.omMeg {
+    color: black;
+    font-size: 25px;
+}
+
+.hjem {
+    font-size: 25px
+}
+
+@media (max-width: 426px) {
+    .ul {
+        flex-direction: column;
+    }
+}
