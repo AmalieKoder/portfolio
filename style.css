@@ -8,6 +8,12 @@ body {
  gap: 10px;
 }
 
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+
 .ul {
     margin-right: 2rem;
     display: flex;
