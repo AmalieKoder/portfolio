@@ -41,15 +41,18 @@ body {
 .projeckter {
     color: black;
     font-size: 25px;
+    font-family: 'Bebas Neue', sans-serif;
 }
 
 .omMeg {
     color: black;
     font-size: 25px;
+    font-family: 'Bebas Neue', sans-serif;
 }
 
 .hjem {
     font-size: 25px
+    
 }
 
 .hamburger {
