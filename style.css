@@ -52,8 +52,23 @@ body {
     font-size: 25px
 }
 
+.hamburger {
+    display: none;
+    max-height: 50px;
+}
+
 @media (max-width: 426px) {
     .ul {
         flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .hamburger {
+        display: block;
+    }
+
+    .ul {
+        display: none;
     }
 }
