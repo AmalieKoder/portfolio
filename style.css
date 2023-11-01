@@ -5,36 +5,31 @@ body {
 }
 
 .header {
- display: flex;
- flex-direction: column;
- justify-content:center;
- align-items: center;
  gap: 10px;
- height: 100vh;
 }
 
 .ul {
-    list-style: none;
-    padding-left: 0;
+    margin-right: 2rem;
     display: flex;
-    gap: 0.5em;
-    border: 2px solid #bc4b51;
-    background-color: #432818;
+    flex-direction: row;
+    justify-content: end;
+    gap: 2rem;
+    list-style: none;
 }
 
 .hjem:hover {
     cursor: pointer;
-    color: #f08080;
+    color: #fefae0;
 }
 
 .omMeg:hover {
     cursor: pointer;
-    color: #f08080;
+    color: #fefae0;
 }
 
 .projeckter:hover {
     cursor: pointer;
-    color: #f08080;
+    color: #fefae0;
 }
 
 .projeckter {
