@@ -89,3 +89,9 @@ body {
 .img {
     height: 50px;
 }
+
+.profile {
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
