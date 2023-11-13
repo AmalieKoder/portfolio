@@ -33,12 +33,10 @@ p {
     min-height: 50vh;
 }
 
-.p {
-    cursor: pointer;
-}
 
 .img {
     width: 45px;
+    cursor: pointer;
 }
 
 
