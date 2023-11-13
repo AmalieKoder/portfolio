@@ -42,11 +42,11 @@ p {
 
 
 .lightMode {
-    background: #f08080;
-    color: black;
+    background: #9a8c98;
+    color: #252422;
 }
 
 .darkMode {
-    background-color: black;
-    color: #fdfdfd;
+    background-color: #22223b;
+    color: #7f5539;
 }
