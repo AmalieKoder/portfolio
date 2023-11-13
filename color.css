@@ -13,6 +13,10 @@ p {
     font-family: 'Bebas Neue', sans-serif
 }
 
+.pil {
+    height: 45px;
+}
+
 .center {
     text-align: center;
 }
