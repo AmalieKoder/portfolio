@@ -37,6 +37,10 @@ p {
     cursor: pointer;
 }
 
+.img {
+    width: 45px;
+}
+
 
 
 .lightMode {
