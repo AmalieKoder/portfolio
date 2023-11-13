@@ -13,6 +13,10 @@ p {
     font-family: 'Bebas Neue', sans-serif
 }
 
+.div {
+    border-bottom: 4px solid #252422;
+}
+
 .pil {
     height: 45px;
 }
@@ -47,6 +51,6 @@ p {
 }
 
 .darkMode {
-    background-color: #22223b;
-    color: #7f5539;
+    background-color: #0a0908;
+    color: #b23a48;
 }
