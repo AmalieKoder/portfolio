@@ -7,7 +7,3 @@ export function themeToggled() {
     console.log("button clicked");
 }
 
-export function colorShift() {
-    const color = document.querySelector("h1");
-    color.style.color = "lightblue";
-}
