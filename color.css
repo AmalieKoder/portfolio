@@ -23,6 +23,7 @@ p {
 
 .center {
     text-align: center;
+    border: 4px solid black;
 }
 
 .color {
