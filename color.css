@@ -23,7 +23,6 @@ p {
 
 .center {
     text-align: center;
-    border: 5px solid #252422;
 }
 
 .color {
@@ -58,24 +57,30 @@ p {
 
 .bella {
     height: 80px;
+    border: 5px solid #252422;
 }
 
 .math {
     height: 80px;
+    border: 5px solid #252422;
 }
 
 .emojis {
     height: 80px;
+    border: 5px solid #252422;
 }
 
 .counter {
     height: 80px;
+    border: 5px solid #252422;
 }
 
 .jujutsu {
     height: 80px;
+    border: 5px solid #252422;
 }
 
 .temtem {
     height: 80px;
+    border: 5px solid #252422;
 }
