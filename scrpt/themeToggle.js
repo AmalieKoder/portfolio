@@ -6,3 +6,8 @@ export function themeToggled() {
     body.classList.toggle("darkMode");
     console.log("button clicked");
 }
+
+export function colorShift() {
+    const color = document.querySelector("h1");
+    color.style.color = "lightblue";
+}
