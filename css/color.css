@@ -50,10 +50,12 @@ p {
 
 .lightMode {
     background: #9a8c98;
+    color: #0a0908;
 }
 
 .darkMode {
     background-color: #0a0908;
+    color: antiquewhite;
 }
 
 .bella {
