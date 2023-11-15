@@ -9,9 +9,6 @@ h1 {
     font-size: 45px;
 }
 
-h1:hover {
-    cursor: pointer;
-}
 
 p {
     text-align: center;
