@@ -64,34 +64,82 @@ p {
 .bella {
     height: 80px;
     border: 5px solid #252422;
+    transition: 1s ease;
+}
+
+.bella:hover {
+    border-radius: 50%;
+    transition: 1s ease;
 }
 
 .math {
     height: 80px;
     border: 5px solid #252422;
+    transition: 1s ease;
+}
+
+.math:hover {
+    -webkit-transform:scale(1.2);
+    -ms-transform:scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
 }
 
 .emojis {
     height: 80px;
     border: 5px solid #252422;
+    transition: 1s ease
+}
+
+.emojis:hover {
+    border-radius: 50%;
+    transition: 1s ease;
 }
 
 .counter {
     height: 80px;
     border: 5px solid #252422;
+    transition: 1s ease
+}
+
+.counter:hover {
+    -webkit-transform:scale(1.2);
+    -ms-transform:scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
 }
 
 .jujutsu {
     height: 80px;
     border: 5px solid #252422;
+    transition: 1s ease
+}
+
+.jujutsu:hover {
+    border-radius: 50%;
+    transition: 1s ease;
 }
 
 .temtem {
     height: 80px;
     border: 5px solid #252422;
+    transition: 1s ease
+}
+
+.temtem:hover {
+    -webkit-transform:scale(1.2);
+    -ms-transform:scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
 }
 
 .todoList {
     height: 80px;
     border: 5px solid #252422;
+    transition: 1s ease
+}
+
+.todoList:hover {
+    border-radius: 50%;
+    transition: 1s ease;
 }
